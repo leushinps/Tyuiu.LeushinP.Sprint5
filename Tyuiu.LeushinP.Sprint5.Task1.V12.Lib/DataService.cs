@@ -25,7 +25,7 @@ namespace Tyuiu.LeushinP.Sprint5.Task1.V12.Lib
 
                 if (i < stopValue)
                 {
-                    output.Append("\n");
+                    string path = Path.Combine(Path.GetTempPath(), "OutPutFileTask1.txt");
                 }
                 resultString = output.ToString();
 
