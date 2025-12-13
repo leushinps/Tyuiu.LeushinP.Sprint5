@@ -1,6 +1,6 @@
 using Microsoft.VisualStudio.TestPlatform.Utilities;
 
-namespace Tyuiu.MolodchikovEE.Sprint5.Task1.V12.Test
+namespace Tyuiu.LeushinP.Sprint5.Task1.V12.Test
 {
     public class DataServiceTest
     {

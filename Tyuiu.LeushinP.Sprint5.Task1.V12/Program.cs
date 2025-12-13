@@ -1,5 +1,5 @@
-﻿using Tyuiu.MolodchikovEE.Sprint5.Task1.V12.Lib;
-namespace Tyuiu.MolodchikovEE.Sprint5.Task1.V12
+﻿using Tyuiu.LeushinP.Sprint5.Task1.V12.Lib;
+namespace Tyuiu.LeushinP.Sprint5.Task1.V12
 {
     class Program
     {

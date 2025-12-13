@@ -1,7 +1,7 @@
 ﻿using System.Text;
 using tyuiu.cources.programming.interfaces.Sprint5;
 
-namespace Tyuiu.MolodchikovEE.Sprint5.Task1.V12.Lib
+namespace Tyuiu.LeushinP.Sprint5.Task1.V12.Lib
 {
     public class DataService : ISprint5Task1V12
     {
