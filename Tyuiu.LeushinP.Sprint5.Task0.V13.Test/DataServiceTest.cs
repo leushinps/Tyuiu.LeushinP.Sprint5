@@ -10,7 +10,7 @@ namespace Tyuiu.LeushinP.Sprint5.Task0.V13.Test
         [Test]
         public void CheckedExistsFile()
         {
-            string path = @"C:\Users\Pavelon\source\repos\Tyuiu.LeushinP.Sprint5\Tyuiu.LeushinP.Sprint5.Task0.V13\bin\Debug\net8.0OutPutFileTask0.txt";
+            string path =  @"C:\Users\Pavelon\AppData\Local\Temp\OutPutFileTask0.csv";
             FileInfo fileInfo = new FileInfo(path);
             bool fileExists = fileInfo.Exists;
             bool wait = true;

@@ -32,7 +32,7 @@ namespace Tyuiu.LeushinP.Sprint5.Task2.V19.Test
             bool fileExists = fileInfo.Exists;
 
             Assert.IsTrue(fileExists);
-            string path = @"C:\Users\Pavelon\source\repos\Tyuiu.LeushinP.Sprint5\Tyuiu.LeushinP.Sprint5.Task2.V12\bin\Debug\net8.0OutPutFileTask2.txt";
+            string path = @"C:\Users\Pavelon\AppData\Local\Temp\OutPutFileTask2.csv";
         }
     }
 }
