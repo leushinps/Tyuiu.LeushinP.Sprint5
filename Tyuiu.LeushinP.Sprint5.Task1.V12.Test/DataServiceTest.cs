@@ -12,7 +12,7 @@ namespace Tyuiu.LeushinP.Sprint5.Task1.V12.Test
             double result = Math.Round((numerator / denominator) + 2, 2);
             double wait = 0.75;
             Assert.AreEqual(wait, result);
-
+            string path = @"C:\Users\Pavelon\source\repos\Tyuiu.LeushinP.Sprint5\Tyuiu.LeushinP.Sprint5.Task2.V12\bin\Debug\net8.0OutPutFileTask2.txt";
         }
     }
 }

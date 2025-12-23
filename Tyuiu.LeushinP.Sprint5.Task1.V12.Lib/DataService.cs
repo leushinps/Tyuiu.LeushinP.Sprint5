@@ -7,7 +7,7 @@ namespace Tyuiu.LeushinP.Sprint5.Task1.V12.Lib
     {
         public string SaveToFileTextData(int startValue, int stopValue)
         {
-            string path = Path.Combine(Path.GetTempPath(), "OutPutFileTask0.txt");
+            string path = Path.Combine(Path.GetTempPath(), "OutPutFileTask1.txt");
             StringBuilder output = new StringBuilder();
             string resultString = "";
             for (int i = startValue; i <= stopValue; i++)
