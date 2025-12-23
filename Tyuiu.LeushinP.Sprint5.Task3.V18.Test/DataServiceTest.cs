@@ -9,7 +9,7 @@ namespace Tyuiu.LeushinP.Sprint5.Task3.V18.Test
         [Test]
         public void TestMethod1()
         {
-            string path = @"C:\Users\Ïîëüçîâàòåëü\AppData\Local\Temp\OutPutFileTask3.bin";
+            string path = @"C:\Users\Pavelon\AppData\Local\Temp\OutPutFileTask3.csv";
             FileInfo fileInfo = new FileInfo(path);
             bool fileExists = fileInfo.Exists;
             bool wait = true;
